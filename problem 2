@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/*PROGRAM TO PRINT MAXIMUM, MINIMUM, MEAN, MEDIAN, MODE OF THE ELEMENTS OF THE ARRAY*/
-
 void max(int s, int arr[])
 {
   int maxi=arr[0];
